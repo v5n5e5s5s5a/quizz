@@ -1,0 +1,18 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "answers": ["Berlin", "Paris", "London", "Madrid"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Which programming language is known for building interactive websites?",
+      "answers": ["Java", "Python", "JavaScript", "Ruby"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "How many continents are there in the world?",
+      "answers": ["5", "6", "7", "8"],
+      "correctAnswerIndex": 2
+    }
+  ]
+  
