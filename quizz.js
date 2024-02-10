@@ -12,7 +12,7 @@ try {
     const info = fs.readFileSync('questions.json', 'utf-8')
     quizz = JSON.parse(info)
 } catch (error) {
-    console.log('error reading questions:', error.message)
+    console.log('error Occurred! Questions are inaccessible!:', error.message)
     process.exit(1)
 }
 
